@@ -1,4 +1,4 @@
-function mensaje(){
+function alerta(){
 alert("Cuidado co los conflictos")
 }
 
